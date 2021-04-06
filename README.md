@@ -1,3 +1,0 @@
-# LPI
-LPI
-# LPI TEST
